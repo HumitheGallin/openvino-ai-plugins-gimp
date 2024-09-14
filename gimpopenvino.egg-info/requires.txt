@@ -1,0 +1,18 @@
+numpy
+scipy
+typing
+gdown
+requests
+opencv-python
+scikit-image
+timm==0.4.5
+transformers>=4.37.0
+diffusers
+controlnet-aux>=0.0.6
+openvino
+psutil
+matplotlib
+
+[:python_version <= "2.7"]
+future
+enum
